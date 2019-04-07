@@ -5,4 +5,3 @@ Somebody else has added a new line!
 
 Some other contributor added this line while we weren't looking!
 
-Coucou
